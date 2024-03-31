@@ -1,0 +1,6 @@
+export const SHOP_ROUTE = '/'
+export const BASKET_ROUTE = '/basket'
+export const FAVORITE_ROUTE = '/favorite'
+export const DEVICE_ROUTE = '/device'
+export const CONTACTS_ROUTE = '/contacts'
+export const REQUIREMENT_ROUTE = '/requirement'
